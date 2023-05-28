@@ -1,0 +1,13 @@
+.main__btn {
+    font-size: 1rem;
+    background-image: linear-gradient(to top #b721ff 0%, #21d4fd 100%);
+    padding: 14px 32px;
+    border-radius: 4px;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    margin-top: 2rem;
+    position: relative;
+    transition: all 0.35s;
+    outline: none;
+}
